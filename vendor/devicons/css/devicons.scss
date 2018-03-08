@@ -50,7 +50,7 @@ $devicons:	(git "\e602"),
 			(streamline "\e605"),
 			(database "\e606"),
 			(laravel "\e63f"),
-			(javascript "\e64e"),
+			(javascript "\e845"),
 			(angular "\e653"),
 			(backbone "\e652"),
 			(coffeescript "\e651"),
@@ -65,8 +65,8 @@ $devicons:	(git "\e602"),
 			(bootstrap "\e647"),
 			(sass "\e64b"),
 			(css3_full "\e64a"),
-			(css3 "\e649"),
-			(html5 "\e636"),
+			(css3 "\e679"),
+			(html5 "\e7f7"),
 			(html5_multimedia "\e632"),
 			(html5_device_access "\e633"),
 			(html5_3d_effects "\e635"),
@@ -218,6 +218,7 @@ $devicons:	(git "\e602"),
 			(scriptcs "\e6bc"),
 			(sqllite "\e6c4"),
 			(vim "\e6c5");
+			(csharp "\e637")
 
 @each $devicon in $devicons {
 	  $iconClass: nth($devicon, 1);

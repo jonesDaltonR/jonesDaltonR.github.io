@@ -119,7 +119,7 @@
 }
 
 .devicons-javascript:before {
-  content: "\e64e";
+  content: "\e845";
 }
 
 .devicons-angular:before {
@@ -179,11 +179,11 @@
 }
 
 .devicons-css3:before {
-  content: "\e649";
+  content: "\e679";
 }
 
 .devicons-html5:before {
-  content: "\e636";
+  content: "\e7f7";
 }
 
 .devicons-html5_multimedia:before {
@@ -784,4 +784,7 @@
 
 .devicons-vim:before {
   content: "\e6c5";
+}
+.devicons-csharp:before{
+  content: "\e637";
 }
